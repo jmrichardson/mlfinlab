@@ -1,0 +1,13 @@
+codecov==2.0.15
+coverage==4.5.2
+cvxpy
+numba
+numpy
+matplotlib
+pandas
+pylint
+scikit-learn
+scipy
+sphinx==2.2.1 # needed for docs
+sphinx-rtd-theme==0.4.3 # needed for docs
+statsmodels
